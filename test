@@ -1,0 +1,11 @@
+//test file for CMPM 120 git gud assignment
+
+var Dude(game, key) {
+
+Phaser.Sprite.call(this, game, 32, game.height - 32, key);
+
+//set anchor to middle in this version
+this.anchor.set(.5);
+
+var catchphrase = 'Pineapple does not belong on pizza';
+}
