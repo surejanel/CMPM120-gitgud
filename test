@@ -1,0 +1,24 @@
+//test file for CMPM 120 git gud assignment
+
+var Dude(game, key) {
+
+Phaser.Sprite.call(this, game, 32, game.height - 32, key);
+
+//set anchor to lower right in this version
+this.anchor.set(1, 1);
+
+//kept comments from the first intentional conflict
+//<<<<<<< HEAD
+//var catchphrase = 'Pineapple does not belong on pizza';
+//=======
+
+var catchphrase = 'Pineapple probably does belong on pizza';
+
+//>>>>>>> XYZ
+
+console.log(catchphrase);
+}
+=======
+
+//>>>>>>> master
+
