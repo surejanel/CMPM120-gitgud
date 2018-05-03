@@ -8,4 +8,6 @@ Phaser.Sprite.call(this, game, 32, game.height - 32, key);
 this.anchor.set(.5);
 
 var catchphrase = 'Pineapple does not belong on pizza';
+
+console.log(catchphrase);
 }
