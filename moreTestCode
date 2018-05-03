@@ -1,0 +1,10 @@
+//More tests for the CMPM 120 gitGud assignment
+
+var Ghost(game, key) {
+
+var status = 'dead';
+var catchphrase = "I'm dead on the inside"
+
+console.log(catchphrase);
+
+}
