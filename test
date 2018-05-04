@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-/test file for CMPM 120 git gud assignment
-=======
-/test file for CMPM 120 git gud assignment
->>>>>>> JMC
+//test file for CMPM 120 git gud assignment
 
 var Dude(game, key) {
 
@@ -11,29 +7,13 @@ Phaser.Sprite.call(this, game, 32, game.height - 32, key);
 //set anchor to lower right in this version
 this.anchor.set(1, 1);
 
-<<<<<<< HEAD
-
-//=======
->>>>>>> JMC
-//kept comments from the first intentional conflict
+//kept some comments from the first intentional conflict
 //<<<<<<< HEAD
-//var catchphrase = 'Pineapple does not belong on pizza';
 //=======
-<<<<<<< HEAD
 //var catchphrase = 'Pineapple does not belong on pizza';
-=======
+
 
 var catchphrase = 'Pineapple probably does belong on pizza';
 
->>>>>>> JMC
-//>>>>>>> XYZ
-
 console.log(catchphrase);
 }
-<<<<<<< HEAD
-=======
-=======
-
-//>>>>>>> master
-//>>>>>>> JMC
-
